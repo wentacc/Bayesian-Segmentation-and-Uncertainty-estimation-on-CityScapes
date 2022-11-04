@@ -1,0 +1,9 @@
+torch-summary==1.4.4
+torch
+torchvision
+numpy
+pillow
+scikit-learn
+tqdm
+matplotlib
+visdom
