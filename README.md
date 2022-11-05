@@ -81,9 +81,9 @@ Put `lab2_train_data.h5`  and `lab2_test_data.h5`  in `'./BayesianSegNet/'`.
 
 | Team Member | Contribution                                                 |
 | ----------- | ------------------------------------------------------------ |
-| Wentao Cao  | Assign tasks; Implement Bayesian SegNet for segmentation; Generate and visualize estimates of aleatoric and epistemic uncertainties; |
+| Wentao Cao  | Assign tasks; Implement Bayesian SegNet for segmentation; Generate and visualize estimates of aleatoric and epistemic uncertainties. |
 | Kaiang Wen  | Provide code of the UNet model structure using  TensorFlow,Help train Bayesian SegNet and write comments for it. |
-| Chen Dai    | Finish the exercises and implement a data loader.            |
+| Cheng Dai   | Finish the exercises and implement a data loader.            |
 | Yaqi Zhou   | Implement UNet for segmentation, including training and testing. |
 | ALL         | Check through the team project.                              |
 
