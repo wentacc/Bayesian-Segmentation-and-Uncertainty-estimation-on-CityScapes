@@ -33,7 +33,7 @@
 ## Install
 
 ```
-git clone git@github.com:kasating/Segmentation-and-Uncertainty-estimation-on-CityScapes/Bayesian-SegNet.git
+git clone git@github.com:kasating/Bayesian-Segmentation-and-Uncertainty-estimation-on-CityScapes.git
 ```
 
 ​                   
