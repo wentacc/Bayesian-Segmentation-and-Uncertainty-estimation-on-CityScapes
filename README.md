@@ -1,4 +1,4 @@
-# Segmentation-and-Uncertainty-Estimation-with-Bayesian-SegNet-on-CityScapes
+# segmentation-and-uncertainty-estimation-on-CityScapes
 
 <div align="center"><p>
     <a href="https://github.com/kasating/segmentation-and-uncertainty-estimation-on-CityScapes/pulse">
@@ -33,7 +33,7 @@
 ## Install
 
 ```
-git clone git@github.com:kasating/Segmentation-and-Uncertainty-Estimation-with-Bayesian-SegNet-on-CityScapes.git
+git clone git@github.com:kasating/segmentation-and-uncertainty-estimation-on-CityScapes.git
 ```
 
 ​                   
