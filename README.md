@@ -1,4 +1,4 @@
-# segmentation-and-uncertainty-estimation-on-CityScapes
+# Segmentation-and-Uncertainty-estimation-on-CityScapes/Bayesian-SegNet
 
 <div align="center"><p>
     <a href="https://github.com/kasating/segmentation-and-uncertainty-estimation-on-CityScapes/pulse">
@@ -16,7 +16,7 @@
 2. Implement **UNet** for semantic segmentation with **TensorFlow**. Stop  training due to a lack of GPUs. Relevant codes and files are stored in `./UNet`.		
 
    For more information on the dataset please refer to: [CityScapes dataset](https://www.cityscapes-dataset.com/). 
-   This is also a team project for Deep Learning for Computer Vision course, lectured by Prof. Alexander Amini.
+   This is also a team project for Deep Learning for Computer Vision course, lectured by MIT Prof. Alexander Amini.
 
    ​                      
 
@@ -33,7 +33,7 @@
 ## Install
 
 ```
-git clone git@github.com:kasating/segmentation-and-uncertainty-estimation-on-CityScapes.git
+git clone git@github.com:kasating/Segmentation-and-Uncertainty-estimation-on-CityScapes/Bayesian-SegNet.git
 ```
 
 ​                   
