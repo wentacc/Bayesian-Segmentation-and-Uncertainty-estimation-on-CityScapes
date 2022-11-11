@@ -62,12 +62,12 @@ Put `lab2_train_data.h5`  and `lab2_test_data.h5`  in `'./BayesianSegNet/'`.
 
 ### 4. Training and Testing
 
-- **`./BayesianSegNet/main_segnet_v7.ipynb` is the main file of this software lab.**
+- **`./BayesianSegNet/main_segnet.ipynb` is the main file of this software lab.**
 
-- Ignore the  first 4 cells in `./BayesianSegNet/main_segnet_v7.ipynb` if you're not using Google Colab.
+- Ignore the  first 4 cells in `./BayesianSegNet/main_segnet.ipynb` if you're not using Google Colab.
 
-- To train the model, change the parameter `MODE` to `'TRAIN'` and run all cells in `./BayesianSegNet/main_segnet_v7.ipynb`.
-- To test the model only, change the parameter `MODE` to `TEST` and run all cells in `./BayesianSegNet/main_segnet_v7.ipynb`. Model parameters are stored in `./BayesianSegNet/weights/23_model.pth`.
+- To train the model, change the parameter `MODE` to `'TRAIN'` and run all cells in `./BayesianSegNet/main_segnet.ipynb`.
+- To test the model only, change the parameter `MODE` to `TEST` and run all cells in `./BayesianSegNet/main_segnet.ipynb`. Model parameters are stored in `./BayesianSegNet/weights/model.pth`.
 
   ​                 
 
