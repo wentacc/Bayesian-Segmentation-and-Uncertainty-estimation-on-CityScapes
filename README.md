@@ -89,4 +89,5 @@ Put `lab2_train_data.h5`  and `lab2_test_data.h5`  in `'./BayesianSegNet/'`.
 
 ## License
 
-[MIT Licence](../LICENSE)
+[MIT License](https://github.com/kasating/Bayesian-Segmentation-and-Uncertainty-estimation-on-CityScapes/blob/main/LICENSE)
+
