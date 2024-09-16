@@ -1,4 +1,4 @@
-# Segmentation-and-Uncertainty-estimation-on-CityScapes/Bayesian-SegNet
+# Bayesian Segmentation and Uncertainty estimation on CityScapes
 
 <div align="center"><p>
     <a href="https://github.com/kasating/segmentation-and-uncertainty-estimation-on-CityScapes/pulse">
@@ -81,11 +81,12 @@ Put `lab2_train_data.h5`  and `lab2_test_data.h5`  in `'./BayesianSegNet/'`.
 
 | Team Member | Contribution                                                 |
 | ----------- | ------------------------------------------------------------ |
-| Wentao Cao  | Assign tasks; Implement Bayesian SegNet for segmentation; Generate and visualize estimates of aleatoric and epistemic uncertainties. |
-| Kaiang Wen  | Provide code of the UNet model structure using  TensorFlow,Help train Bayesian SegNet and write comments for it. |
-| Cheng Dai   | Finish the exercises and implement a data loader.            |
-| Yaqi Zhou   | Implement UNet for segmentation, including training and testing. |
-| ALL         | Check through the team project.                              |
+| Yitong  | Implement UNet for segmentation, including training and testing. |
+| Zhuoyuan| Provide code of the UNet model structure. |
+| Kaiang  | Generate and visualize estimates of aleatoric and epistemic uncertainties. |
+| Wentao  | Implement Bayesian SegNet for segmentation, and generate the estimates of aleatoric and epistemic uncertainties. |
+| Yaqi    | Help train UNet and write comments for it. |
+| ALL     | Check through the team project. |
 
 ## License
 
